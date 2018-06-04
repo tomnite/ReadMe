@@ -13,11 +13,12 @@
 
 
 
-# burger
+# ReadMe
 
 created according to MVC architectural pattern using the following tools:
 
-Express, Handlebars, Heroku, Javascript, MySql, Node, Sequel Pro
+Express, Handlebars, Heroku, Javascript, MySql, Node, Sequel Pro  
+
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
