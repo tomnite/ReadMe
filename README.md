@@ -53,3 +53,4 @@ Created according to MVC architectural pattern using the following technologies:
 [9]: http://sequelize.readthedocs.io/en/v3/
 [10]: https://www.sequelpro.com/
 [11]: https://picturepan2.github.io/spectre/
+[12]: http://www.passportjs.org/
