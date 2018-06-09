@@ -28,7 +28,7 @@ UCF Group Project
 [8.1]: /icons/heroku.png
 [9.1]: /icons/sequelize.png
 [10.1]: /icons/sqlpro.png
-[11.1]: /icons/spectre.png
+[11.1]: /icons/Spectre.png
 [12.1]: /icons/passport.png
 
 
